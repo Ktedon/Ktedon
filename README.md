@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ktedon
-- 👀 I’m interested in Logical Programming, finding work, etc.
-- 🌱 I’m currently learning Antlr4
+- 👀 I’m interested in logic-based programming, finding work, etc.
+- 🌱 I’m currently learning lambda-prolog and abella
 - 💞️ I’m looking to collaborate on getting me a job
-- 📫 How to reach me mathgeek52@yahoo.com
+- 📫 How to reach me oobrad76@gmail.com
